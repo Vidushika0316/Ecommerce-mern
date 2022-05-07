@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Nike Soccer Football',
       slug: 'nike-soccer-football',
       category: 'Shoes',
@@ -13,6 +14,7 @@ const data = {
       description: 'high quality pair of shoes',
     },
     {
+      _id: '2',
       name: 'Adidas Soccer Football',
       slug: 'adidas-soccer-football',
       category: 'Shoes',
@@ -25,6 +27,7 @@ const data = {
       description: 'high quality pair of shoes',
     },
     {
+      _id: '3',
       name: 'Nike Slim Pant',
       slug: 'nike-slim-pant',
       category: 'Pants',
@@ -37,6 +40,7 @@ const data = {
       description: 'high quality product',
     },
     {
+      _id: '4',
       name: 'Adidas Fit Pant',
       slug: 'Adidas-fit-pant',
       category: 'Pants',
