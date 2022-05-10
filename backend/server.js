@@ -1,5 +1,4 @@
 import express from 'express';
-//import data from './data.js';
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import seedRouter from './routes/seedRoutes.js';
@@ -17,7 +16,6 @@ mongoose
   });
 
 const app = express();
-//app.use('/api/seed', seedRouter);
 app.use('/api/seed', seedRouter);
 app.use('/api/products', productRouter);
 //test
