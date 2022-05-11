@@ -7,7 +7,7 @@ This is a simple Ecommerce website built by using MERN Stack
 
 ```
 $ git clone https://github.com/Vidushika0316/Ecommerce-mern.git
-$ cd mern-shoppingegy
+$ cd Ecommerce-mern
 ```
 
 ### 2. Create .env File
