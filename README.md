@@ -41,7 +41,7 @@ $ npm start
 ### 6. Seed Users and Products
 
 - Run this on browser: http://localhost:5000/api/seed
-- It returns admin eemail and password and 4 sample products
+- It returns admin email and password and 4 sample products
 
 ### 7. Reason for choosing MERN Stack 
 
